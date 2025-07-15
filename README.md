@@ -1,7 +1,10 @@
 Привет! Меня зовут София! ✨
 
 
-Hi there, I'm Sophiya! 👋 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/SofikoBR)                                                                                                                                                                                        
+Hi there, I'm Sophiya! 👋
+
+
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/SofikoBR)                                                                                                                                                                                        
 
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

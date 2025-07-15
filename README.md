@@ -1,7 +1,7 @@
-##Привет! Меня зовут София! ✨
+## Привет! Меня зовут София! ✨
 
 
-##Hi there, I'm Sophiya! 👋
+## Hi there, I'm Sophiya! 👋
 
 
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/SofikoBR)                                                                                                                                                                                        

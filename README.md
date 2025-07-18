@@ -2,6 +2,10 @@
 
 
 ## Hi there, I'm Sophiya! 👋
+![](https://komarev.com/ghpvc/?username=Sophiya-ai&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=Sophiya-ai&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=Sophiya-ai)
+![](https://komarev.com/ghpvc/?username=Sophiya-ai&color=yellow&style=flat)
 
 
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/SofikoBR)                                                                                                                                                                                        
